@@ -1,3 +1,3 @@
-# Carbon Footprint Model
+# Mainly Focused on Transportation, Urban Development and Geospatial Matters
 
-This is a basic for carbon footprint modelling using python and Victorian Integrated Survey of Travel and Activity (VISTA) data.
+This repository could be expanding, as I am currently working on transportation as part of my studies.
