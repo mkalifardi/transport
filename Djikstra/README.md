@@ -6,20 +6,20 @@ This project demonstrates how to implement **Dijkstra’s algorithm** using Pyth
   <img src="shortest_paths.gif" width="600" alt="Dijkstra shortest path animation">
 </p>
 
-## Objective
+### Objective
 
 Given a set of directed links with weights, this notebook:
 - Loads and constructs a network graph from a CSV file
 - Applies Dijkstra's algorithm to compute the shortest path between nodes
 - Visualizes the graph and highlights the shortest path dynamically
 
-## Files
+### Files
 
 - `shortest paths.ipynb`: Jupyter Notebook that contains all the code and explanation
 - `network links.csv`: Source file containing the directed edges and weights
 - `shortest_paths.gif`: Animated visualization of the shortest path discovery process
 
-## Technologies Used
+### Technologies Used
 
 - Python 3
 - NetworkX
@@ -27,7 +27,7 @@ Given a set of directed links with weights, this notebook:
 - Pandas
 - Jupyter Notebook
 
-## How to Run
+### How to Run
 
 1. Clone the repository:
    ```bash
@@ -42,7 +42,7 @@ Given a set of directed links with weights, this notebook:
    ```bash
    jupyter notebook "shortest paths.ipynb"
 
-## Sample Output
+### Sample Output
 The shortest path from A to B is:
 A → D → B (Total cost: 3)
 This path is highlighted in red in the animated GIF above.
@@ -53,5 +53,5 @@ This path is highlighted in red in the animated GIF above.
 - Logistics and supply chain modeling
 - Educational demonstrations in graph theory
 
-📄 License
-This project is licensed under the MIT License.
+### License
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
