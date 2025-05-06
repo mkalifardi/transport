@@ -1,0 +1,15 @@
+link_id,init_node,term_node,length
+1,A,B,6
+2,B,C,5
+3,A,D,1
+4,D,B,2
+5,B,E,2
+6,D,E,1
+7,E,C,5
+8,B,A,6
+9,C,B,5
+10,D,A,1
+11,B,D,2
+12,E,B,2
+13,E,D,1
+14,C,E,5
